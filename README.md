@@ -4,7 +4,7 @@
 
 - Construindo um formulário reativo, com validação dos campos.
 
-<img src="./src/assets/img/preview.png" width=700 height=700>
+<img src="./src/assets/img/preview.png" width=700 height=800>
 
 <h2 id="technologies">🖥️ Tecnologias</h2>
 
